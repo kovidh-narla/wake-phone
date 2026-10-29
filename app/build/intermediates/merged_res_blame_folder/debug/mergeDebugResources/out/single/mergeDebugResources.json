@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.wakeping.app-debug-33:/drawable_bg_wake_button.xml.flat",
+        "source": "com.wakeping.app-main-35:/drawable/bg_wake_button.xml"
+    },
+    {
+        "merged": "com.wakeping.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.wakeping.app-main-35:/layout/activity_main.xml"
+    }
+]

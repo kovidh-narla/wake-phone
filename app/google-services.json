@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020027191989",
+    "project_id": "com-wakeping",
+    "storage_bucket": "com-wakeping.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020027191989:android:bc0e070c8feb617360f4fc",
+        "android_client_info": {
+          "package_name": "com.wakeping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpq_J-BD6Hg7hHBZ-ghGhqrA9LFJcOhdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

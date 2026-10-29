@@ -1,0 +1,36 @@
+com.wakeping.app-core-ktx-1.13.1-0 C:\Users\kovid\.gradle\caches\8.10.2\transforms\0bfd725f3a2758c123eeb927f6442076\transformed\core-ktx-1.13.1\res
+com.wakeping.app-lifecycle-livedata-core-2.6.2-1 C:\Users\kovid\.gradle\caches\8.10.2\transforms\1f29d6dfaff10b2a7cef879d45e1cd7e\transformed\lifecycle-livedata-core-2.6.2\res
+com.wakeping.app-core-1.13.1-2 C:\Users\kovid\.gradle\caches\8.10.2\transforms\38c7ccfea3623f2c2eba9b621d07fac5\transformed\core-1.13.1\res
+com.wakeping.app-emoji2-views-helper-1.3.0-3 C:\Users\kovid\.gradle\caches\8.10.2\transforms\3fc8db657cd3bd632ea027053ec5583a\transformed\emoji2-views-helper-1.3.0\res
+com.wakeping.app-fragment-1.5.4-4 C:\Users\kovid\.gradle\caches\8.10.2\transforms\417f40192aebcbea7d65b5eb5055c834\transformed\fragment-1.5.4\res
+com.wakeping.app-firebase-common-21.0.0-5 C:\Users\kovid\.gradle\caches\8.10.2\transforms\4201c8705cefa5a24fd636d5835eda61\transformed\firebase-common-21.0.0\res
+com.wakeping.app-appcompat-resources-1.7.0-6 C:\Users\kovid\.gradle\caches\8.10.2\transforms\42f5c8eae90c78ee66bd40aa99b3c440\transformed\appcompat-resources-1.7.0\res
+com.wakeping.app-annotation-experimental-1.4.0-7 C:\Users\kovid\.gradle\caches\8.10.2\transforms\4ad2b66270fdd544a077c55d84c36d92\transformed\annotation-experimental-1.4.0\res
+com.wakeping.app-lifecycle-viewmodel-savedstate-2.6.2-8 C:\Users\kovid\.gradle\caches\8.10.2\transforms\5e99bb424b4e27a3de09d0178654175f\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.wakeping.app-play-services-auth-20.7.0-9 C:\Users\kovid\.gradle\caches\8.10.2\transforms\605558fb2041c3859a3215401e33af09\transformed\play-services-auth-20.7.0\res
+com.wakeping.app-browser-1.4.0-10 C:\Users\kovid\.gradle\caches\8.10.2\transforms\60a7447cfc055a30a998edd9dbbeceec\transformed\browser-1.4.0\res
+com.wakeping.app-firebase-messaging-24.0.3-11 C:\Users\kovid\.gradle\caches\8.10.2\transforms\61d58871e2ee9730b1623d043c9cfb01\transformed\firebase-messaging-24.0.3\res
+com.wakeping.app-play-services-basement-18.4.0-12 C:\Users\kovid\.gradle\caches\8.10.2\transforms\6857dc371daeae477016ec2fbf69d302\transformed\play-services-basement-18.4.0\res
+com.wakeping.app-emoji2-1.3.0-13 C:\Users\kovid\.gradle\caches\8.10.2\transforms\707f3557f937e8336ff9d79caafda93b\transformed\emoji2-1.3.0\res
+com.wakeping.app-activity-1.7.0-14 C:\Users\kovid\.gradle\caches\8.10.2\transforms\725eca551ecbbb901b6080560aed81d6\transformed\activity-1.7.0\res
+com.wakeping.app-savedstate-1.2.1-15 C:\Users\kovid\.gradle\caches\8.10.2\transforms\7e6121d7fdf8ee6e8d32a4d6ba109fca\transformed\savedstate-1.2.1\res
+com.wakeping.app-credentials-1.2.0-rc01-16 C:\Users\kovid\.gradle\caches\8.10.2\transforms\8278c08ebb3219b01547c84499d50615\transformed\credentials-1.2.0-rc01\res
+com.wakeping.app-core-runtime-2.2.0-17 C:\Users\kovid\.gradle\caches\8.10.2\transforms\9cb77c32ea376b85db19f12acfc4f2a1\transformed\core-runtime-2.2.0\res
+com.wakeping.app-startup-runtime-1.1.1-18 C:\Users\kovid\.gradle\caches\8.10.2\transforms\ae3d0c7b21d7bf563487a4cf116a6fbf\transformed\startup-runtime-1.1.1\res
+com.wakeping.app-lifecycle-viewmodel-2.6.2-19 C:\Users\kovid\.gradle\caches\8.10.2\transforms\af35177a4b14a49e075c10aa7f15bb7d\transformed\lifecycle-viewmodel-2.6.2\res
+com.wakeping.app-lifecycle-process-2.6.2-20 C:\Users\kovid\.gradle\caches\8.10.2\transforms\b8517c603417656d76f0edc87844efbe\transformed\lifecycle-process-2.6.2\res
+com.wakeping.app-credentials-play-services-auth-1.2.0-rc01-21 C:\Users\kovid\.gradle\caches\8.10.2\transforms\ccf17088d3149b7a5878124efbd7b2ee\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.wakeping.app-lifecycle-livedata-2.6.2-22 C:\Users\kovid\.gradle\caches\8.10.2\transforms\ceb128fb37ead8d5bff079eabe68533e\transformed\lifecycle-livedata-2.6.2\res
+com.wakeping.app-core-common-2.0.3-23 C:\Users\kovid\.gradle\caches\8.10.2\transforms\db2180ba1b249d3262000aed0ac9d668\transformed\core-common-2.0.3\res
+com.wakeping.app-appcompat-1.7.0-24 C:\Users\kovid\.gradle\caches\8.10.2\transforms\dbdbf3812b8a99daccc778836ff44542\transformed\appcompat-1.7.0\res
+com.wakeping.app-profileinstaller-1.3.1-25 C:\Users\kovid\.gradle\caches\8.10.2\transforms\e497de4610210a64979b6259ef87d43b\transformed\profileinstaller-1.3.1\res
+com.wakeping.app-play-services-base-18.1.0-26 C:\Users\kovid\.gradle\caches\8.10.2\transforms\f05e8da34ffa17572dfe4e507f0c8268\transformed\play-services-base-18.1.0\res
+com.wakeping.app-lifecycle-runtime-2.6.2-27 C:\Users\kovid\.gradle\caches\8.10.2\transforms\f2b97e7697f00ff3f806fcfd2dc47b91\transformed\lifecycle-runtime-2.6.2\res
+com.wakeping.app-pngs-28 F:\wake phone\app\build\generated\res\pngs\debug
+com.wakeping.app-res-29 F:\wake phone\app\build\generated\res\processDebugGoogleServices
+com.wakeping.app-resValues-30 F:\wake phone\app\build\generated\res\resValues\debug
+com.wakeping.app-packageDebugResources-31 F:\wake phone\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.wakeping.app-packageDebugResources-32 F:\wake phone\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.wakeping.app-debug-33 F:\wake phone\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.wakeping.app-debug-34 F:\wake phone\app\src\debug\res
+com.wakeping.app-main-35 F:\wake phone\app\src\main\res
